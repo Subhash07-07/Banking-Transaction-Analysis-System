@@ -68,4 +68,4 @@ In Progress 🚀
 
 # Banking Transaction Analysis System
 
-![Project Banner](banner.jpeg)
+![Project Banner](banking_project_covet.png.jpeg)
