@@ -31,4 +31,33 @@ In Progress 🚀
 
 ![ER Diagram](ER%20Diagram/banking_er_diagram.png)
 
+## Project Structure
 
+- SQL Scripts
+  - Schema.sql
+  - Sample_Data.sql
+  - Triggers.sql
+  - Stored_Procedures.sql
+  - Business_Queries.sql
+
+## Features
+
+- Customer Management
+- Account Management
+- Transaction Tracking
+- Loan Processing
+- Fund Transfers
+- Risk Analysis
+
+## SQL Concepts Used
+
+- Joins
+- Aggregate Functions
+- Group By
+- HAVING
+- Subqueries
+- CTEs
+- Window Functions
+- Triggers
+- Stored Procedures
+- Transactions (ACID)
