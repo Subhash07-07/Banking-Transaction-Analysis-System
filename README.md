@@ -1,3 +1,7 @@
+# Banking Transaction Analysis System
+
+![Project Banner](banner.jpeg)
+
 # Banking-Transaction-Analysis-System
 A SQL-based Banking Transaction Analysis System featuring database design, triggers, stored procedures, CTEs, window functions, and business analytics queries.
 # Banking Transaction Analysis System
@@ -66,6 +70,3 @@ In Progress 🚀
 
 ![ER Diagram](ER%20Diagram/banking_er_diagram.png)
 
-# Banking Transaction Analysis System
-
-![Project Banner](banner.jpeg)
