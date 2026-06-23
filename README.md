@@ -26,3 +26,9 @@ The system manages:
 
 ## Project Status
 In Progress 🚀
+
+## Database Schema
+
+![ER Diagram](ER%20Diagram/banking_er_diagram.png)
+
+
