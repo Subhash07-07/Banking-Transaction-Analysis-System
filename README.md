@@ -65,3 +65,7 @@ In Progress 🚀
 - ## Database Schema
 
 ![ER Diagram](ER%20Diagram/banking_er_diagram.png)
+
+# Banking Transaction Analysis System
+
+![Project Banner](banking_project_cover.png)
