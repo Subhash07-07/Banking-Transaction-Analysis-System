@@ -68,4 +68,4 @@ In Progress 🚀
 
 # Banking Transaction Analysis System
 
-![Project Banner]("C:\Users\vemul\Downloads\banking_project_cover.png.jpeg")
+![Project Banner]("banking_project_cover.png.jpeg")
